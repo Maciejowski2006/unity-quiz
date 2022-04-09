@@ -25,7 +25,7 @@ export default {
 					]
 				},
 				{
-					question: "Który z podanych networkingów jest najstabilniejszy i najbardziej zbliżony do HLAPI",
+					question: "Który z podanych networkingów jest najstabilniejszy i zbudowany na postawie HLAPI(UNet)",
 					right: 1,    
 					answers: [
 						"MLAPI",
@@ -35,13 +35,13 @@ export default {
 					]
 				},
 				{
-					question: "Jakiej platformy nie wspiera Unity 2019.X",
+					question: "Jakiej platformy nie wspiera Unity 2019.4",
 					right: 2,
 					answers: [
 						"PS5",
-						"XBOX Seriex",
+						"XBOX Series X",
 						"PowerPC",
-						"ARM"
+						"tvOS"
 					]
 				},
 				{
@@ -72,6 +72,27 @@ export default {
 						"Reverb",
 						"Noise",
 						"Normalize"
+					]
+				}
+				,
+				{
+					question: "Który z tych obiektów, nie jest dostępny w domyślnej wersji Unity",
+					right: 0,
+					answers: [
+						"UI Document",
+						"Empty GameObject",
+						"Point Light",
+						"Audio Reverb Zone"
+					]
+				},
+				{
+					question: "Od jakiego planu dostępny jest ciemny motyw w edytorze od wersji 2019.4",
+					right: 3,
+					answers: [
+						"Plus",
+						"Pro",
+						"Enterprise",
+						"Jest dostępny w każdej wersji"
 					]
 				}
 			],
