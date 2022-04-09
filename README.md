@@ -1,6 +1,8 @@
 # Unity Quiz
 
 Quiz about Unity engine for school project. It's in polish only(for now). In near future, I will add more questions.
+It's availble live [here](https://unity-quiz-e7a5f.web.app/)
+
 
 ## Recommended IDE Setup
 
