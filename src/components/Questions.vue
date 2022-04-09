@@ -94,6 +94,16 @@ export default {
 						"Enterprise",
 						"Jest dostępny w każdej wersji"
 					]
+				},
+				{
+					question: "Której paczki nie znajdziemy w domyślnym menadżerze paczek",
+					right: 1,
+					answers: [
+						"Shader Graph",
+						"Vivox",
+						"Bolt(Visual Scripting)",
+						"Input System"
+					]
 				}
 			],
 			correctNumber: 0,
