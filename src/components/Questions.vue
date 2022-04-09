@@ -92,7 +92,7 @@ export default {
 						"Plus",
 						"Pro",
 						"Enterprise",
-						"Jest dostępny w każdej wersji"
+						"Jest dostępny w każdym planie"
 					]
 				},
 				{
