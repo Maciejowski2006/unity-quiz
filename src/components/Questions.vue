@@ -182,7 +182,7 @@ button {
 	transition-duration: 200ms;
 }
 .reset {
-	margin: 25px 45.8%;
+	margin: 25px calc(50% - 80px);
 	min-width: 10rem;
 }
 .default {
