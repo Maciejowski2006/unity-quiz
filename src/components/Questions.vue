@@ -150,7 +150,7 @@ nav {
 	text-align: center;
 	padding: .25rem 0;
 	position: fixed;
-	width: 100%;
+	width: 100vw;
 	background-color: #333;
 }
 
